@@ -1,0 +1,421 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#agenzia {
+    font-size: 25px;
+    float: left;
+    padding-left: 40px;
+    margin-top: 15px;
+}
+#home {
+position: absolute;
+font-size: 10px;
+float: left;
+padding-left: 1100px;
+margin-top: 45px;   
+}
+#contact {
+position: absolute;
+font-size: 10px;
+float: left;
+padding-left: 1205px;
+margin-top: 45px;    
+}
+#about {
+position: absolute;
+font-size: 10px;
+float: left;
+padding-left: 1340px;
+margin-top: 45px;
+}
+#fotouno {
+position:static;
+}
+#hashtag {
+position: absolute;
+font-size: 30px;
+float: left;
+padding-left: 400px;
+margin-top: 30px;
+}
+#fotocamilo{
+position: absolute;
+float: left;
+padding-left:230px;
+margin-top: 150px; 
+}
+#fotokarlotta{
+position: absolute;
+float: left;
+padding-left:630px;
+margin-top: 150px; ;
+}
+#fotolaboca{
+position: absolute;
+float: left;
+padding-left:1030px;
+margin-top: 150px; 
+}
+#camilohuinca {
+position: absolute;
+font-size: 15px;
+float: left;
+padding-left: 280px;
+margin-top: 560px;
+}
+#karlottafreier {
+position: absolute;
+font-size: 15px;
+float: left;
+padding-left: 680px;
+margin-top: 560px;
+}
+#laboca {
+position: absolute;
+font-size: 15px;
+float: left;
+padding-left: 1130px;
+margin-top: 560px;
+}
+#fotofritz {
+position: absolute;
+float: left;
+padding-left:230px;
+margin-top: 600px; 
+}
+#fotolahan {
+position: absolute;
+float: left;
+padding-left:630px;
+margin-top: 600px; 
+}
+#fotoherrera {
+position: absolute;
+float: left;
+padding-left:1030px;
+margin-top: 600px; 
+}
+#fritz {
+position: absolute;
+font-size: 15px;
+float: left;
+padding-left: 345px;
+margin-top: 1000px;
+}
+#timlahan {
+position: absolute;
+font-size: 15px;
+float: left;
+padding-left: 710px;
+margin-top: 1000px;
+}
+#herrera {
+position: absolute;
+font-size: 15px;
+float: left;
+padding-left: 1130px;
+margin-top: 1000px;
+}
+#banner {
+position: absolute;
+}
+#titolouno {
+position: absolute;
+float: left;
+font-size: 30px;
+padding-left: 560px;
+margin-top: 15px;
+color: white;
+}
+#testouno {
+position: absolute;
+float: left;
+font-size:15px;
+text-align: left;
+margin-top:115px;
+width: 1400px;
+height: 300px;
+margin-left: 60px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+#fotounocamilo {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 330px;
+}
+#fotoduecamilo {
+position: absolute;
+float: left;
+padding-left: 800px;
+margin-top: 330px;
+}
+#fototrecamilo {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 880px;
+}
+#fotoquattrocamilo {
+position: absolute;
+float: left;
+padding-left:800px;
+margin-top: 880px;
+}
+#titolodue {
+position: absolute;
+float: left;
+font-size: 30px;
+padding-left: 560px;
+margin-top: 15px;
+color: white;
+}
+#testodue {
+position: absolute;
+float: left;
+font-size:15px;
+width: 1300px;
+height: 300px;
+margin-left: 140px;
+text-align: left;
+margin-top:130px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+#fotounokarlotta {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 330px;
+}
+#fotoduekarlotta {
+position: absolute;
+float: left;
+padding-left: 800px;
+margin-top: 330px;
+}
+#fototrekarlotta {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 880px;
+}
+#fotoquattrokarlotta {
+position: absolute;
+float: left;
+padding-left:800px;
+margin-top: 880px;
+}
+#titolotre {
+position: absolute;
+float: left;
+font-size: 30px;
+padding-left: 650px;
+margin-top: 15px;
+color: white;
+}
+#testotre{
+position: absolute;
+float: left;
+font-size:15px;
+width: 1300px;
+height: 300px;
+margin-left: 130px;
+text-align: left;
+margin-top:130px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+#fotounolaboca {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 380px;
+}
+#fotoduelaboca {
+position: absolute;
+float: left;
+padding-left: 800px;
+margin-top: 380px;
+}
+#fototrelaboca {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 940px;
+}
+#fotoquattrolaboca {
+position: absolute;
+float: left;
+padding-left:800px;
+margin-top: 940px;
+}
+#titoloquattro {
+position: absolute;
+float: left;
+font-size: 30px;
+padding-left: 630px;
+margin-top: 15px;
+color: white;
+}
+#testoquattro{
+position: absolute;
+float: left;
+font-size:15px;
+width: 1300px;
+height: 300px;
+margin-left: 130px;
+text-align: left;
+margin-top:130px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+#fotounofritz {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 450px;
+}
+#fotoduefritz {
+position: absolute;
+float: left;
+padding-left: 800px;
+margin-top: 450px;
+}
+#fototrefritz {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 1020px;
+}
+#fotoquattrofritz {
+position: absolute;
+float: left;
+padding-left: 800px;
+margin-top: 1020px;
+}
+#titolocinque {
+position: absolute;
+float: left;
+font-size: 30px;
+padding-left: 620px;
+margin-top: 15px;
+color: white;
+}
+#testocinque{
+position: absolute;
+float: left;
+font-size:15px;
+width: 1300px;
+height: 300px;
+margin-left: 130px;
+text-align: left;
+margin-top:130px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+#fotounolahan {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 300px;
+}
+#fotoduelahan {
+position: absolute;
+float: left;
+padding-left: 800px;
+margin-top: 300px;
+}
+#fototrelahan {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 870px;
+}
+#fotoquattrolahan {
+position: absolute;
+float: left;
+padding-left: 800px;
+margin-top: 870px;
+}
+#titolosei {
+position: absolute;
+float: left;
+font-size: 30px;
+padding-left: 580px;
+margin-top: 15px;
+color: white;
+}
+#testosei {
+position: absolute;
+float: left;
+font-size:15px;
+width: 1300px;
+height: 300px;
+margin-left: 130px;
+text-align: left;
+margin-top:130px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+#fotounoxoana {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 350px;
+}
+#fotoduexoana {
+position: absolute;
+float: left;
+padding-left: 800px;
+margin-top: 350px;
+}
+#fototrexoana {
+position: absolute;
+float: left;
+padding-left: 300px;
+margin-top: 900px;
+}
+#fotoquattroxoana {
+position: absolute;
+float: left;
+padding-left: 800px;
+margin-top: 900px;
+}
+#titolosette {
+position: absolute;
+float: left;
+font-size: 30px;
+padding-left: 90px;
+margin-top: 15px;
+color: white;
+}
+#fotodue {
+position: absolute;
+margin-top: 100px;
+}
+#hashtagdue {
+position: absolute;
+font-size: 30px;
+float: left;
+padding-left: 500px;
+margin-top: 830px;
+}
+#testoaboutus {
+position: absolute;
+font-size: 30px;
+float: left;
+padding-left: 250px;
+margin-top: 930px;
+width: 1300px;
+height: 300px;
+text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#footerbanner {
+position: absolute;
+margin-top: 1000px;
+}
+
+
+
+
+
+
